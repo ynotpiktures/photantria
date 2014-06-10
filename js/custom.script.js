@@ -37,8 +37,14 @@
     		$(this).css({
     			'background-image': 'url(' +$('img', this).hide().attr('src') +')',
     			'height': $(window).height()
+
     		});
     	});
+
+	/*Arjun's custom code */
+	$('#linux').click(function() {
+	    console.log("wow!");
+	});
 
     	/*----------  BIG SLIDER  ----------*/
     	$('.portfolio-with-details .flexslider, .service .flexslider').flexslider({slideshowSpeed: 5000});
@@ -46,6 +52,7 @@
         $('.flexslider.home-page').flexslider({
             slideshowSpeed: 5000,
             after : function(slider){
+		console.log("This is from the big slider function");
                 var next = $('.flex-active-slide', slider).find('.home-title');
                 var className = '';
                 if(next.hasClass('left')){
@@ -143,11 +150,18 @@
                     return false
                 }           
                 $('.portfolio').addClass('animate');
+		var id = ($(this).closest('div').attr('id'));
+		console.log(id);
+		var list = document.getElementById("ulist");
+		var index = $("#l"+id).index();
+		console.log(index);
+		$('.flexslider').flexslider(index);
+		console.log("This is from setTimeout");
             });
         }, 1000);
 
         $('.right-images').on('click', 'span', function(){
-            lastLink = $('.main-navi a.active, .main-navi > div.active');
+	    lastLink = $('.main-navi a.active, .main-navi > div.active');
             $('.main-block').addClass('animate');
             $('.main-navi a, .main-navi > div').removeClass('active');
             $('#portfolioLink').addClass('active');  
