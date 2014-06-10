@@ -4,7 +4,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-    <title>FooBar Studios</title>
+    <title>Photantria - Kids Photography</title>
     <!--  FAVICON  -->
     <link rel="shortcut icon" href="../favicon.ico" />
     <!--  //FAVICON  -->
@@ -57,7 +57,7 @@
     <div class="left-menu">
       <!--  LOGO  -->
       <a class="logo" href="index.html">
-        FooBar
+        Photantria
       </a>
       <!--  //LOGO  -->
 
@@ -117,12 +117,7 @@
 
       <!--  SOCIAL ICONS  -->
       <div class="soc-icons">
-        <a class="glyph fa-twitter" href=""></a>
-        <a class="glyph fa-facebook" href=""></a>
-        <a class="glyph fa-google-plus" href=""></a>
-        <a class="glyph fa-linkedin" href=""></a>
-        <a class="glyph fa-dribbble" href=""></a>
-        <a class="glyph fa-pinterest" href=""></a>
+        <a class="glyph fa-facebook" href="http://facebook.com/photantria"></a>
       </div>
       <!--  //SOCIAL ICONS  -->
       <p class="copy">
@@ -143,147 +138,35 @@
               <span></span>
 	    </div>
             <div class="item" data-class="kids">
-              <img src="../images/masonry/landspace/6.jpg" alt="">
+              <img src="../images/masonry/kids/1.png" alt="">
               <span></span>
 	    </div>
-            <div class="item" data-class="girls">
-              <img src="../images/masonry/girls/1.jpg" alt="">
+            <div class="item" data-class="kids">
+              <img src="../images/masonry/kids/2.png" alt="">
               <span></span>
             </div>
-            <div class="item" data-class="fashion">
-              <img src="../images/masonry/fashion/6.jpg" alt="">
+            <div class="item" data-class="kids">
+              <img src="../images/masonry/kids/3.png" alt="">
               <span></span>
 	    </div>
-            <div class="item" data-class="girls">
-              <img src="../images/masonry/girls/2.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="wedding">
-              <img src="../images/masonry/sport/1.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="animals">
-              <img src="../images/masonry/animals/6.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="couple">
-              <img src="../images/masonry/cars/1.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="fashion">
-              <img src="../images/masonry/fashion/2.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="couple">
-              <img src="../images/masonry/cars/4.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="animals">
-              <img src="../images/masonry/animals/1.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="girls">
-              <img src="../images/masonry/girls/3.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="wedding">
-              <img src="../images/masonry/sport/2.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="wedding">
-              <img src="../images/masonry/sport/3.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="fashion">
-              <img src="../images/masonry/fashion/3.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="girls">
-              <img src="../images/masonry/girls/4.jpg" alt="">
+            <div class="item" data-class="kids">
+              <img src="../images/masonry/kids/4.png" alt="">
               <span></span>
             </div>
             <div class="item" data-class="kids">
-              <img src="../images/masonry/landspace/4.jpg" alt="">
+              <img src="../images/masonry/kids/5.png" alt="">
               <span></span>
             </div>
             <div class="item" data-class="kids">
-              <img src="../images/masonry/landspace/5.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="fashion">
-              <img src="../images/masonry/fashion/4.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="couple">
-              <img src="../images/masonry/cars/2.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="wedding">
-              <img src="../images/masonry/sport/4.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="couple">
-              <img src="../images/masonry/cars/3.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="animals">
-              <img src="../images/masonry/animals/2.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="animals">
-              <img src="../images/masonry/animals/3.jpg" alt="">
+              <img src="../images/masonry/kids/6.png" alt="">
               <span></span>
             </div>
             <div class="item" data-class="kids">
-              <img src="../images/masonry/landspace/1.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="wedding">
-              <img src="../images/masonry/sport/5.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="wedding">
-              <img src="../images/masonry/sport/6.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="fashion">
-              <img src="../images/masonry/fashion/5.jpg" alt="">
-              <span></span>
-	    </div>                        
-            <div class="item" data-class="couple">
-              <img src="../images/masonry/cars/5.jpg" alt="">
-              <span></span>
-            </div> 
-            <div class="item" data-class="kids">
-              <img src="../images/masonry/landspace/2.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="animals">
-              <img src="../images/masonry/animals/4.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="couple">
-              <img src="../images/masonry/cars/6.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="animals">
-              <img src="../images/masonry/animals/5.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="kids">
-              <img src="../images/masonry/landspace/3.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="girls">
-              <img src="../images/masonry/girls/5.jpg" alt="">
-              <span></span>
-            </div>
-            <div class="item" data-class="girls">
-              <img src="../images/masonry/girls/6.jpg" alt="">
+              <img src="../images/masonry/kids/7.png" alt="">
               <span></span>
             </div>
           </div>            
-          </div>
+        </div>
 	<div class="scroller__track">
           <div class="scroller__bar"></div>
         </div>
@@ -296,41 +179,36 @@
         <div class="portfolio-image flexslider">
           <ul class="slides">
             <li class="images-bg">
-              <!--  SLIDER IMAGE  -->
-              <img src="../images/big-images/img1.jpg" alt="">
+               <!--  SLIDER IMAGE  -->
+              <img src="../images/masonry/kids/1.png" alt="">
               <!--  //SLIDER IMAGE  -->
-              <div>
-                <span class="title">BEAUTIFUL fashion FOTO</span>
-                <span class="class">fashion</span>
-              </div>
             </li>
-            <li class="images-bg">
-              <!--  SLIDER IMAGE  -->
-              <img src="../images/big-images/img2.jpg" alt="">
+	    <li class="images-bg">
+               <!--  SLIDER IMAGE  -->
+              <img src="../images/masonry/kids/2.png" alt="">
               <!--  //SLIDER IMAGE  -->
-              <div>
-                <span class="title">BEAUTIFUL fashion FOTO</span>
-                <span class="class">fashion</span>
-              </div>
             </li>
-            <li class="images-bg">
-              <!--  SLIDER IMAGE  -->
-              <img src="../images/big-images/img3.jpg" alt="">
+	    <li class="images-bg">
+               <!--  SLIDER IMAGE  -->
+              <img src="../images/masonry/kids/3.png" alt="">
               <!--  //SLIDER IMAGE  -->
-              <div>
-                <span class="title">BEAUTIFUL fashion FOTO</span>
-                <span class="class">fashion</span>
-              </div>
             </li>
-            <li class="images-bg">
-              <!--  SLIDER IMAGE  -->
-              <img src="../images/big-images/img4.jpg" alt="">
+	    <li class="images-bg">
+               <!--  SLIDER IMAGE  -->
+              <img src="../images/masonry/kids/4.png" alt="">
               <!--  //SLIDER IMAGE  -->
-              <div>
-                <span class="title">BEAUTIFUL fashion FOTO</span>
-                <span class="class">fashion</span>
-              </div>
             </li>
+	    <li class="images-bg">
+               <!--  SLIDER IMAGE  -->
+              <img src="../images/masonry/kids/5.png" alt="">
+              <!--  //SLIDER IMAGE  -->
+            </li>
+	    <li class="images-bg">
+               <!--  SLIDER IMAGE  -->
+              <img src="../images/masonry/kids/6.png" alt="">
+              <!--  //SLIDER IMAGE  -->
+            </li>
+	   
           </ul>
         </div>
         <!--  //SLIDER  -->

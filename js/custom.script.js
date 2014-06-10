@@ -156,8 +156,7 @@
 		var index = $("#l"+id).index();
 		console.log(index);
 		$('.flexslider').flexslider(index);
-		console.log("This is from setTimeout");
-            });
+	    });
         }, 1000);
 
         $('.right-images').on('click', 'span', function(){
