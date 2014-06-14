@@ -32,6 +32,7 @@ strong{
 	border: none;
 	box-shadow: none;
 	margin-bottom: 0;
+	background: #121212;
 }
 
 /*----------  LEFT MENU  ----------*/
@@ -378,8 +379,9 @@ strong{
 
 	/*----------  SLIDER  ----------*/
 	.images-bg{
-		background-size: cover;
-		background-position: center;
+	    background-size: contain; 
+	    background-position: center;
+	    background-repeat: no-repeat;
 	}
 	.flex-control-nav,
 	.flex-direction-nav{
