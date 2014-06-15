@@ -12,7 +12,7 @@ body{
 	background: #121212;
 }
 a, a:hover, a:active{
-	text-decoration: italic !important; 
+	text-decoration: none !important; 
 	color: #333;
 
     -moz-transition: all 0.3s linear;
@@ -1876,6 +1876,10 @@ strong{
 	}
 .blog-navi a:hover{
 	color: #ff3333;
+}
+
+.mini a:hover {
+    color: red;
 }
 
 .blog-right-block h2{
