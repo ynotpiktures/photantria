@@ -130,18 +130,18 @@
         /*----------  //SHOW HIDE MAIN MENU  ----------*/   
 
         /*----------  MAP  ----------*/
-        if($('#map').length){ 
+        if($('#map').length){  
             var mapOptions = {
                 zoom: 8,
-                center: new google.maps.LatLng(-34.397, 150.644),
+                center: new google.maps.LatLng(12.9667, 77.5667),
                 scrollwheel: false,
                 streetViewControl : true
-            };
-
+	    };
             var map = new google.maps.Map(document.getElementById('map'), mapOptions);
-           
-        }
-        /*----------  //MAP  ----------*/
+	}
+
+
+        /*----------  //Map  ----------*/
 
         /*----------  SHOW PORTFOLIO DETAILS  ----------*/
         setTimeout(function(){      

@@ -1,4 +1,4 @@
-*{
+{
 	margin: 0;
 	padding: 0;
 }
@@ -1128,7 +1128,7 @@ strong{
 	    width: 100%;
 
 	    -moz-transition: all 0.3s linear;
-		-webkit-transition: all 0.3s linear;
+
 		-o-transition: all 0.3s linear;
 		-ms-transition: all 0.3s linear;
 		transition: all 0.3s linear;
@@ -1186,6 +1186,7 @@ strong{
 /*----------  //CONTACT  ----------*/
 .map{
 	height: 400px;
+
 }
 /*----------  TEAM  ----------*/
 .team {
@@ -2323,6 +2324,7 @@ strong{
 	}
 	.map{
 		height: 200px;
+	
 	}
 	.left-content-text{
 		padding: 40px;
