@@ -4,7 +4,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-    <title>Photantria - Wedding - Couple</title>
+    <title>Photantria - Wedding</title>
     <!--  FAVICON  -->
     <link rel="shortcut icon" href="../favicon.ico" />
     <!--  //FAVICON  -->
@@ -74,25 +74,14 @@
 	  <span class="corner"></span>
 	</a>
 	
-	<div id="portfolioLink" class="active">
-          <div>
-            Wedding
-            <span class="dot"></span>
-          </div>
-          <span class="corner"></span>
-          
-	  <div class="drop-down">
-            <a href="couple.html">
-              Couple Shoot
-            </a>
-            <a href="candid.html">
-              Candid Wedding
-            </a>
-          </div>
-	</div>
+	<a href "wedding.html" class = "active">
+	  Wedding
+	  <span class="dot"></span>
+	  <span class="corner"></span>
+	</a>
 	
-	<a href="event.html">
-	  Event
+	<a href="candid.html">
+	  Candid
 	  <span class="dot"></span>
 	  <span class="corner"></span>
 	</a>
@@ -139,32 +128,32 @@
 <!--           <div id="masonry" class="masonry-wrapper"> -->
             
 <!-- 	    <div id="w1" class="item" data-class="wedding"> -->
-<!--               <img src="../images/masonry/wedding/1.jpg" alt=""> -->
+<!--               <img src="../images/masonry/wedding/1.png" alt=""> -->
 <!--               <span></span> -->
 <!-- 	    </div> -->
            
 <!--             <div id="w2" class="item" data-class="wedding"> -->
-<!--               <img src="../images/masonry/wedding/2.jpg" alt=""> -->
+<!--               <img src="../images/masonry/wedding/2.png" alt=""> -->
 <!--               <span></span> -->
 <!--             </div> -->
             
 <!-- 	    <div id="w3" class="item" data-class="wedding"> -->
-<!--               <img src="../images/masonry/w/3.jpg" alt=""> -->
+<!--               <img src="../images/masonry/w/3.png" alt=""> -->
 <!--               <span></span> -->
 <!--             </div> -->
             
 <!-- 	    <div id="w4" class="item" data-class="wedding"> -->
-<!--               <img src="../images/masonry/wedding/4.jpg" alt=""> -->
+<!--               <img src="../images/masonry/wedding/4.png" alt=""> -->
 <!--               <span></span> -->
 <!--             </div> -->
             
 <!-- 	    <div id="w5" class="item" data-class="wedding"> -->
-<!--               <img src="../images/masonry/wedding/5.jpg" alt=""> -->
+<!--               <img src="../images/masonry/wedding/5.png" alt=""> -->
 <!--               <span></span> -->
 <!--             </div> -->
             
 <!-- 	    <div id="w6" class="item" data-class="wedding"> -->
-<!--               <img src="../images/masonry/wedding/6.jpg" alt=""> -->
+<!--               <img src="../images/masonry/wedding/6.png" alt=""> -->
 <!--               <span></span> -->
 <!--             </div> -->
          
@@ -184,32 +173,32 @@
 <!--         <ul id="ulist" class="slides"> -->
 <!--           <li id="lw1" class="images-bg"> -->
 <!--             <\!--  SLIDER IMAGE  -\-> -->
-<!--             <img src="../images/masonry/wedding/1.jpg" alt=""> -->
+<!--             <img src="../images/masonry/wedding/1.png" alt=""> -->
 <!--             <\!--  //SLIDER IMAGE  -\-> -->
 <!--           </li> -->
 <!--       	  <li id="lw2" class="images-bg"> -->
 <!--             <\!--  SLIDER IMAGE  -\-> -->
-<!--             <img src="../images/masonry/wedding/2.jpg" alt=""> -->
+<!--             <img src="../images/masonry/wedding/2.png" alt=""> -->
 <!--             <\!--  //SLIDER IMAGE  -\-> -->
 <!--           </li> -->
 <!--       	  <li id="lw3" class="images-bg"> -->
 <!--             <\!--  SLIDER IMAGE  -\-> -->
-<!--             <img src="../images/masonry/wedding/3.jpg" alt=""> -->
+<!--             <img src="../images/masonry/wedding/3.png" alt=""> -->
 <!--             <\!--  //SLIDER IMAGE  -\-> -->
 <!--           </li> -->
 <!--       	  <li id="lw4" class="images-bg"> -->
 <!--             <\!--  SLIDER IMAGE  -\-> -->
-<!--             <img src="../images/masonry/wedding/4.jpg" alt=""> -->
+<!--             <img src="../images/masonry/wedding/4.png" alt=""> -->
 <!--             <\!--  //SLIDER IMAGE  -\-> -->
 <!--           </li> -->
 <!--       	  <li id="lw5" class="images-bg"> -->
 <!--             <\!--  SLIDER IMAGE  -\-> -->
-<!--             <img src="../images/masonry/wedding/5.jpg" alt=""> -->
+<!--             <img src="../images/masonry/wedding/5.png" alt=""> -->
 <!--             <\!--  //SLIDER IMAGE  -\-> -->
 <!--           </li> -->
 <!--       	  <li id="lw6" class="images-bg"> -->
 <!--             <\!--  SLIDER IMAGE  -\-> -->
-<!--             <img src="../images/masonry/wedding/6.jpg" alt=""> -->
+<!--             <img src="../images/masonry/wedding/6.png" alt=""> -->
 <!--             <\!--  //SLIDER IMAGE  -\-> -->
 <!--           </li> -->
 <!--       	</ul> -->
